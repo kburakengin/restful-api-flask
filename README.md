@@ -1,8 +1,8 @@
 # restful-api-flask
 
-  This is a RESTFUL API example which i created to improve my skills in RESTFUL API`s and API`s in general.
+  This is a RESTFUL API project which i created to improve my skills in RESTFUL API.
  
- ## Install guide
+## Install guide
 
 ##### Clone the repo
 
